@@ -1,0 +1,150 @@
+Q-1
+    -> RDBMS stands for Relational Database Management System. RDBMS is the basis for SQL, and for all modern database systems like MS 
+          SQL Server, IBM DB2, Oracle, MySQL, and Microsoft Access.
+
+Q-2
+    -> Structured Query Language.
+
+Q-3 .
+    -> DDL – Data Definition Language
+    -> DML – Data Manipulation Language
+    -> DCL – Data Control Language
+    -> DQL – Data Query Language
+
+Q-4
+    -> Join is used to combine & get the data from different tables.
+
+Q-5 
+    -> Inner Join
+         Left Join
+         Right Join
+         Full Join
+
+Q-6 
+    1) Not Null constraints :
+        -> Not Null constraints prevent null values from being entered into a column.
+    2) Unique constraints :
+        -> Unique constraints ensure that the values in a set of columns are unique and not null for all rows in the table.
+    3) Primary Key constraits :
+        -> You can use primary key and foreign key constraints to define relationships between tables.
+    4) Check constraint :
+        -> A check constraint is a database rule that specifies the values allowed in one or more columns of every row of a table.
+    5) Foreign key constraints :
+        -> Foreign key constraints enable definition of required relationships between and within tables.
+    6) Informational constraint :
+        -> Informational constraint is a constraint attribute that can be used by the SQL compiler to improve the access to data. 
+
+Q-7    RDBMS : Relational Database Management system.
+                     -> data is stored in the form of tables.
+                     -> RDBMS supports multiple users at a time.
+     DBMS    : Database Management System.
+                     -> Data is stored as a file.
+                     -> DBMS supports single user at a time. 
+
+Q-8
+    -> Application Programming Interface is a software interface that allows two applications to interact with each other without any user      
+         intervention.
+
+Q-9 
+    1) Open API
+    2) Partner API
+    3) Internal API
+
+Q-10 
+   -> A responsive web design involves creating a flexible web page that is accessible from any device, starting from a mobile phone to a 
+         tablet.
+
+Q-11 
+   -> LT Browser
+        Lembda Testing
+        Google Resizer
+        I am responsive
+        Pixel tuner
+
+Q-12 
+         IPA -> IOS App Store Package
+        APK-> Android Application Package
+
+Q-13 
+       1. Go to Settings
+       2. Tap About device or About phone
+       3. Tap Software information
+       4. Tap Build number seven times until you see the message you are now a developer
+       5. Return to the previous screen to find Developer options at the bottom
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
