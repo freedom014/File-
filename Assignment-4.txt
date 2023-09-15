@@ -1,4 +1,4 @@
-Q-1
+Q-1 
     -> The load runner components are virtual user generator, controller, analysis.
 
 Q-2 
@@ -9,7 +9,7 @@ Q-3
           users.
     -> Correlation means two variables move in relation to one another.
 
-Q-4 
+Q-4
      1. Open file option click on new script
      2. Click on popular option
      3. Select WebHttpHtml1option
@@ -28,7 +28,7 @@ Q-7
     -> The response time for an average transaction tends to decrease as you increase overall throughput. decrease the response time for a 
           specific query, at the expense of overall throughput, by allocating a disproportionate amount of resources to that query.
 
-Q-8 
+Q-8
      -> Hits per sec is the number of calls to the Webserver per second. and Request per sec is the number of request made to the webserver 
           per second. Point to be notice here is "one Request may have many hits.
 
@@ -39,7 +39,7 @@ Q-9
           the setting up of test preconditions, and other test control and test reporting functions.
     -> tests to verify the functionality, performance, security and usability of a website can easily be automated.
 
-Q-10 
+Q-10
      -> Selenium Remote Control (RC), Web Driver, Selenium Grid and Selenium IDE may be used with Firefox. 
      -> Selenium ide supported by all available browsers including Internet Explorer, Mozilla Firefox, Google Chrome, Safari.
 
@@ -54,7 +54,7 @@ Q-11
      -> Ensure Consistency 
      -> Improves accuracy
 
-Q-12 
+Q-12 What are the advantages of Selenium?
      -> Selenium is an open-source automation testing tool
      -> it is free of cost to use
      -> Highly extensible
